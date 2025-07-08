@@ -24,7 +24,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]([images/fnp-dashboard-preview.png](https://github.com/veddata21/fnp-sales-analysis-dashboard/blob/main/Screenshot%202025-07-07%20101957.png))
+![Dashboard Preview][images/fnp-dashboard-preview.png](https://github.com/veddata21/fnp-sales-analysis-dashboard/blob/main/Screenshot%202025-07-07%20101957.png)
 
 ---
 
@@ -39,5 +39,5 @@
 
 **Vedant Mali**  
 🎯 Aspiring Business Analyst | Excel | Power BI | SQL  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://linkedin.com/in/vedant-mali21)  
 📫 Email: malivp21.mech@coeptech.ac.in
